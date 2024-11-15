@@ -2,6 +2,8 @@
 
 This Unity project enables advanced eye-gaze interaction on Magic Leap 2, featuring customizable parameters for a target interactable sphere, as well as different modes for gaze-based interactions.
 
+[**ML2 Gaze Detection Demo**](https://youtube.com/shorts/smILhFcBwgI?feature=share)
+
 ## Project Overview
 - **Unity Version:** 2022.3.52f1  
 - **Magic Leap SDK Version:** 2.5.0  
